@@ -1,4 +1,5 @@
 export const hololive_jp = [
+  //GEN 0
   {
     name: 'AZKi',
     ytId: 'UC0TXe_LYZ4scaW2XMyi5_kw',
@@ -9,6 +10,47 @@ export const hololive_jp = [
     twitter: 'AZKi_VDiVA',
     aliases: ['azki'],
   },
+  {
+    name: 'Tokino Sora',
+    ytId: 'UCp6993wxpyDPHUpavwDFqgg',
+    chName: 'SoraCh. ときのそらチャンネル',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwngZmr_qbKhGIvHaHwLRmKhKxdeFfM7ZbK316vFNSw=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['0th Generation', 'Hololive'],
+    twitter: 'tokino_sora',
+    aliases: ['sora', 'そら'],
+  },
+  {
+    name: 'Sakura Miko',
+    ytId: 'UC-hM6YJuNYVAmUWxeIr9FeA',
+    chName: 'Miko Ch. さくらみこ',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwniR0ijvAPNICEVzF8Pz0kSkuhBLKXd31oc5yO-0AQ=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['0th Generation', 'Hololive'],
+    twitter: 'sakuramiko35',
+    aliases: ['miko', 'mikoti', 'mikocchi', 'みこ', 'みこっち'],
+  },
+  {
+    name: 'Hoshimachi Suisei',
+    ytId: 'UC5CwaMl1eIgY8h02uZw7u8A',
+    chName: 'Suisei Channel',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwnjdAl5rn3IjWzl55_0-skvKced7znPZRuPC5xLB=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['0th Generation', 'Hololive'],
+    twitter: 'suisei_hosimati',
+    aliases: ['suisei', 'suichan', 'sui-chan', 'すいせい', 'すいちゃん'],
+  },
+  {
+    name: 'Roboco-san',
+    ytId: 'UCDqI2jOz0weumE8s7paEk6g',
+    chName: 'Roboco Ch. - ロボ子',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwnhx_THxk2jgqmEGA-cliO482QCna3lnmCBFvCdtBg=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['0th Generation', 'Hololive'],
+    twitter: 'robocosan',
+    aliases: ['roboco', 'ロボ子'],
+  },
+  //GEN 1
   {
     name: 'Akai Haato',
     ytId: 'UC1CfXB_kRs3C-zaeTG3oGyg',
@@ -29,94 +71,24 @@ export const hololive_jp = [
     aliases: [],
   },
   {
-    name: 'Usada Pekora',
-    ytId: 'UC1DCedRgGHBdm81E1llLhOQ',
-    chName: 'Pekora Ch. 兎田ぺこら',
+    name: 'Aki Rosenthal',
+    ytId: 'UCFTLzh12_nrtzqBPsTCqenA',
+    chName: 'アキロゼCh。Vtuber/ホロライブ所属',
     picture:
-      'https://yt3.ggpht.com/ytc/AAUvwnjvkyPGzOmEXZ34mEFPlwMKTbCDl1ZkQ_HkxY-O5Q=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['3rd Generation', 'Hololive'],
-    twitter: 'usadapekora',
-    aliases: ['peko', 'ペコ', 'ぺこ'],
+      'https://yt3.ggpht.com/ytc/AAUvwnhPGqWt_E_8rBXpKUTgHCuyTq0Zz7TXlkRtiIww=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['1st Generation', 'Hololive'],
+    twitter: 'akirosenthal',
+    aliases: ['aki', 'アキ'],
   },
   {
-    name: 'Minato Aqua',
-    ytId: 'UC1opHUrw8rvnsadT-iGp7Cg',
-    chName: 'Aqua Ch. 湊あくあ',
+    name: 'Natsuiro Matsuri',
+    ytId: 'UCQ0UDLQCjY0rmuxCDE38FGg',
+    chName: 'Matsuri Channel 夏色まつり',
     picture:
-      'https://yt3.ggpht.com/ytc/AAUvwngPGs1t6iJAT6hLWj7cBQcvJg2y_L9mzpy3lpxgqw=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['2nd Generation', 'Hololive'],
-    twitter: 'minatoaqua',
-    aliases: ['aqua', 'baqua', 'akutan', 'あくあ', 'あくたん'],
-  },
-  {
-    name: 'Yuzuki Choco',
-    ytId: 'UC1suqwovbL1kzsoaZgFZLKg',
-    chName: 'Choco Ch. 癒月ちょこ',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwnjONtr2IgqiXteDRhXt_yOiWlgPLicWOESGvKzZPQ=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['2nd Generation', 'Hololive'],
-    twitter: 'yuzukichococh',
-    aliases: ['choco', 'chocosen', 'ちょこ'],
-  },
-  {
-    name: 'Tokoyami Towa',
-    ytId: 'UC1uv2Oq6kNxgATlCiez59hw',
-    chName: 'Towa Ch. 常闇トワ',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwnjPaiimZva5GECAyNDn0qraqPm62LlH-0oN21I5=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['4th Generation', 'Hololive'],
-    twitter: 'tokoyamitowa',
-    aliases: ['towa', 'トワ'],
-  },
-  {
-    name: 'Hoshimachi Suisei',
-    ytId: 'UC5CwaMl1eIgY8h02uZw7u8A',
-    chName: 'Suisei Channel',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwnjdAl5rn3IjWzl55_0-skvKced7znPZRuPC5xLB=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['0th Generation', 'Hololive'],
-    twitter: 'suisei_hosimati',
-    aliases: ['suisei', 'suichan', 'sui-chan', 'すいせい', 'すいちゃん'],
-  },
-  {
-    name: 'Nakiri Ayame',
-    ytId: 'UC7fk0CB07ly8oSl0aqKkqFg',
-    chName: 'Nakiri Ayame Ch. 百鬼あやめ',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwnh66ZORNcVma4Pn-Qic23kU3Kl4ZkHM3asCWjDh=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['2nd Generation', 'Hololive'],
-    twitter: 'nakiriayame',
-    aliases: ['ayame', 'nakiri', 'あやめ'],
-  },
-  {
-    name: 'Himemori Luna',
-    ytId: 'UCa9Y57gfeY0Zro_noHRVrnw',
-    chName: 'Luna Ch. 姫森ルーナ',
-    picture:
-      'https://yt3.ggpht.com/eUvyn2QlPppt7z5wew0upiGt2-o7c7rLKBlWynTrSdacjvtZYxZ7Sp6MuYumQJ-zSwzj6a6BDA=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['4th Generation', 'Hololive'],
-    twitter: 'himemoriluna',
-    aliases: ['ルーナ', 'luna'],
-  },
-  {
-    name: 'Momosuzu Nene',
-    ytId: 'UCAWSyEs_Io8MtpY3m-zqILA',
-    chName: 'Nene Ch.桃鈴ねね',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwnilXc5WPsj69fn_xew6see04Cmj3x1vIkW62boi=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['5th Generation', 'Hololive'],
-    twitter: 'momosuzunene',
-    aliases: ['nene', 'ねね', 'nenechi'],
-  },
-  {
-    name: 'Houshou Marine',
-    ytId: 'UCCzUftO8KOVkV4wQG1vkUvg',
-    chName: 'Marine Ch. 宝鐘マリン',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwnjPuFWs42Vx2yIhK7z1w4L-e1GIpHn_5R1uknbS=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['3rd Generation', 'Hololive'],
-    twitter: 'houshoumarine',
-    aliases: ['marine', '船長', 'senchou', 'sentyo', 'mari-tan', 'maripi'],
+      'https://yt3.ggpht.com/ytc/AAUvwni8cjtyc08E7rocvO9_gR1b5BhO1O6O1VreDxMW=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['1st Generation', 'Hololive'],
+    twitter: 'natsuiromatsuri',
+    aliases: ['matsuri', 'まつり'],
   },
   {
     name: 'Yozora Mel',
@@ -138,145 +110,36 @@ export const hololive_jp = [
     twitter: 'shirakamifubuki',
     aliases: ['fubuki', 'fbk', 'フブキ'],
   },
-  {
-    name: 'Roboco-san',
-    ytId: 'UCDqI2jOz0weumE8s7paEk6g',
-    chName: 'Roboco Ch. - ロボ子',
+  //GEN 2
+    {
+    name: 'Minato Aqua',
+    ytId: 'UC1opHUrw8rvnsadT-iGp7Cg',
+    chName: 'Aqua Ch. 湊あくあ',
     picture:
-      'https://yt3.ggpht.com/ytc/AAUvwnhx_THxk2jgqmEGA-cliO482QCna3lnmCBFvCdtBg=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['0th Generation', 'Hololive'],
-    twitter: 'robocosan',
-    aliases: ['roboco', 'ロボ子'],
+      'https://yt3.ggpht.com/ytc/AAUvwngPGs1t6iJAT6hLWj7cBQcvJg2y_L9mzpy3lpxgqw=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['2nd Generation', 'Hololive'],
+    twitter: 'minatoaqua',
+    aliases: ['aqua', 'baqua', 'akutan', 'あくあ', 'あくたん'],
   },
   {
-    name: 'Shirogane Noel',
-    ytId: 'UCdyqAaZDKHXg4Ahi7VENThQ',
-    chName: 'Noel Ch. 白銀ノエル',
+    name: 'Yuzuki Choco',
+    ytId: 'UC1suqwovbL1kzsoaZgFZLKg',
+    chName: 'Choco Ch. 癒月ちょこ',
     picture:
-      'https://yt3.ggpht.com/ytc/AAUvwnijLF2X1YBVQo3rClt7ub29cYM7OzpmRmliaGbw=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['3rd Generation', 'Hololive'],
-    twitter: 'shiroganenoel',
-    aliases: ['noel', 'ノエル', 'danchou', '団長'],
+      'https://yt3.ggpht.com/ytc/AAUvwnjONtr2IgqiXteDRhXt_yOiWlgPLicWOESGvKzZPQ=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['2nd Generation', 'Hololive'],
+    twitter: 'yuzukichococh',
+    aliases: ['choco', 'chocosen', 'ちょこ'],
   },
   {
-    name: 'Yukihana Lamy',
-    ytId: 'UCFKOVgVbGmX65RxO3EtH3iw',
-    chName: 'Lamy Ch. 雪花ラミィ',
+    name: 'Nakiri Ayame',
+    ytId: 'UC7fk0CB07ly8oSl0aqKkqFg',
+    chName: 'Nakiri Ayame Ch. 百鬼あやめ',
     picture:
-      'https://yt3.ggpht.com/ytc/AAUvwng8eQJdCX3r4RgCmRGwigXkDp9a2JJSPq-dZcMF=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['5th Generation', 'Hololive'],
-    twitter: 'yukihanalamy',
-    aliases: ['lamy', 'らみ', 'ラミィ'],
-  },
-  {
-    name: 'Aki Rosenthal',
-    ytId: 'UCFTLzh12_nrtzqBPsTCqenA',
-    chName: 'アキロゼCh。Vtuber/ホロライブ所属',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwnhPGqWt_E_8rBXpKUTgHCuyTq0Zz7TXlkRtiIww=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['1st Generation', 'Hololive'],
-    twitter: 'akirosenthal',
-    aliases: ['aki', 'アキ'],
-  },
-  {
-    name: 'Inugami Korone',
-    ytId: 'UChAnqc_AY5_I3Px5dig3X1Q',
-    chName: 'Korone Ch. 戌神ころね',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwnj7QwmJ9YhyKY-9SkOKhKIzTKDMJp0HX2vAdQUVdw=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['GAMERS', 'Hololive'],
-    twitter: 'inugamikorone',
-    aliases: ['korone', 'korosan', 'ころね', 'ころさん'],
-  },
-  {
-    name: 'Sakura Miko',
-    ytId: 'UC-hM6YJuNYVAmUWxeIr9FeA',
-    chName: 'Miko Ch. さくらみこ',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwniR0ijvAPNICEVzF8Pz0kSkuhBLKXd31oc5yO-0AQ=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['0th Generation', 'Hololive'],
-    twitter: 'sakuramiko35',
-    aliases: ['miko', 'mikoti', 'mikocchi', 'みこ', 'みこっち'],
-  },
-  {
-    name: 'Omaru Polka',
-    ytId: 'UCK9V2B22uJYu3N7eR_BT9QA',
-    chName: 'Polka Ch. 尾丸ポルカ',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwnh-sak3t15svmMDNF8w_uxnNEChOL7C1DKAO-Ht=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['5th Generation', 'Hololive'],
-    twitter: 'omarupolka',
-    aliases: ['polka', 'omaru', 'ポル', 'おまる', 'omarun'],
-  },
-  {
-    name: 'Ookami Mio',
-    ytId: 'UCp-5t9SrOQwXMU7iIjQfARg',
-    chName: 'Mio Channel 大神ミオ',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwng30Wmfu39r1PLrF05pvAafn2a2Ex90ok2C6CTBmg=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['GAMERS', 'Hololive'],
-    twitter: 'ookamimio',
-    aliases: ['mio', 'みお'],
-  },
-  {
-    name: 'Tokino Sora',
-    ytId: 'UCp6993wxpyDPHUpavwDFqgg',
-    chName: 'SoraCh. ときのそらチャンネル',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwngZmr_qbKhGIvHaHwLRmKhKxdeFfM7ZbK316vFNSw=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['0th Generation', 'Hololive'],
-    twitter: 'tokino_sora',
-    aliases: ['sora', 'そら'],
-  },
-  {
-    name: 'Natsuiro Matsuri',
-    ytId: 'UCQ0UDLQCjY0rmuxCDE38FGg',
-    chName: 'Matsuri Channel 夏色まつり',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwni8cjtyc08E7rocvO9_gR1b5BhO1O6O1VreDxMW=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['1st Generation', 'Hololive'],
-    twitter: 'natsuiromatsuri',
-    aliases: ['matsuri', 'まつり'],
-  },
-  {
-    name: 'Tsunomaki Watame',
-    ytId: 'UCqm3BQLlJfvkTsX_hvm0UmA',
-    chName: 'Watame Ch. 角巻わため',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwnitWcmmZK60TDG8y5aUeQfZlmH9YlBNJ4D1ZSFI=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['4th Generation', 'Hololive'],
-    twitter: 'tsunomakiwatame',
-    aliases: ['watame', 'わため'],
-  },
-  {
-    name: 'Shishiro Botan',
-    ytId: 'UCUKD-uaobj9jiqB-VXt71mA',
-    chName: 'Botan Ch.獅白ぼたん',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwngRC-JqguPnj9ljVH3UulyfdlyQzLYzLeSrhvD6=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['5th Generation', 'Hololive'],
-    twitter: 'shishirobotan',
-    aliases: ['botan', 'ぼたん', 'shishiron', 'bossan'],
-  },
-  {
-    name: 'Nekomata Okayu',
-    ytId: 'UCvaTdHTWBGv3MKj3KVqJVCw',
-    chName: 'Okayu Ch. 猫又おかゆ',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwnjXQ3Gt3t3SdUMZHBhhEb_c1jqThHfDaVNJF_LJ=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['GAMERS', 'Hololive'],
-    twitter: 'nekomataokayu',
-    aliases: ['okayu', 'おかゆ'],
-  },
-  {
-    name: 'Shiranui Flare',
-    ytId: 'UCvInZx9h3jC2JzsIzoOebWg',
-    chName: 'Flare Ch. 不知火フレア',
-    picture:
-      'https://yt3.ggpht.com/ytc/AAUvwngtkUgGkgWTz57Er3GSzuMUR07HISM_yDhKQFnR_A=s800-c-k-c0x00ffffff-no-rj',
-    groups: ['3rd Generation', 'Hololive'],
-    twitter: 'shiranuiflare',
-    aliases: ['flare', 'フレア'],
+      'https://yt3.ggpht.com/ytc/AAUvwnh66ZORNcVma4Pn-Qic23kU3Kl4ZkHM3asCWjDh=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['2nd Generation', 'Hololive'],
+    twitter: 'nakiriayame',
+    aliases: ['ayame', 'nakiri', 'あやめ'],
   },
   {
     name: 'Oozora Subaru',
@@ -298,6 +161,78 @@ export const hololive_jp = [
     twitter: 'murasakishionch',
     aliases: ['shion', 'シオン', 'kusogaki', 'クソガキ'],
   },
+  //GEN 3
+  {
+    name: 'Usada Pekora',
+    ytId: 'UC1DCedRgGHBdm81E1llLhOQ',
+    chName: 'Pekora Ch. 兎田ぺこら',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwnjvkyPGzOmEXZ34mEFPlwMKTbCDl1ZkQ_HkxY-O5Q=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['3rd Generation', 'Hololive'],
+    twitter: 'usadapekora',
+    aliases: ['peko', 'ペコ', 'ぺこ'],
+  },
+  {
+    name: 'Shiranui Flare',
+    ytId: 'UCvInZx9h3jC2JzsIzoOebWg',
+    chName: 'Flare Ch. 不知火フレア',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwngtkUgGkgWTz57Er3GSzuMUR07HISM_yDhKQFnR_A=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['3rd Generation', 'Hololive'],
+    twitter: 'shiranuiflare',
+    aliases: ['flare', 'フレア'],
+  },
+  {
+    name: 'Houshou Marine',
+    ytId: 'UCCzUftO8KOVkV4wQG1vkUvg',
+    chName: 'Marine Ch. 宝鐘マリン',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwnjPuFWs42Vx2yIhK7z1w4L-e1GIpHn_5R1uknbS=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['3rd Generation', 'Hololive'],
+    twitter: 'houshoumarine',
+    aliases: ['marine', '船長', 'senchou', 'sentyo', 'mari-tan', 'maripi'],
+  },
+  {
+    name: 'Shirogane Noel',
+    ytId: 'UCdyqAaZDKHXg4Ahi7VENThQ',
+    chName: 'Noel Ch. 白銀ノエル',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwnijLF2X1YBVQo3rClt7ub29cYM7OzpmRmliaGbw=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['3rd Generation', 'Hololive'],
+    twitter: 'shiroganenoel',
+    aliases: ['noel', 'ノエル', 'danchou', '団長'],
+  },
+  //GEN 4
+  {
+    name: 'Tokoyami Towa',
+    ytId: 'UC1uv2Oq6kNxgATlCiez59hw',
+    chName: 'Towa Ch. 常闇トワ',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwnjPaiimZva5GECAyNDn0qraqPm62LlH-0oN21I5=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['4th Generation', 'Hololive'],
+    twitter: 'tokoyamitowa',
+    aliases: ['towa', 'トワ'],
+  },
+  {
+    name: 'Tsunomaki Watame',
+    ytId: 'UCqm3BQLlJfvkTsX_hvm0UmA',
+    chName: 'Watame Ch. 角巻わため',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwnitWcmmZK60TDG8y5aUeQfZlmH9YlBNJ4D1ZSFI=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['4th Generation', 'Hololive'],
+    twitter: 'tsunomakiwatame',
+    aliases: ['watame', 'わため'],
+  },
+  {
+    name: 'Himemori Luna',
+    ytId: 'UCa9Y57gfeY0Zro_noHRVrnw',
+    chName: 'Luna Ch. 姫森ルーナ',
+    picture:
+      'https://yt3.ggpht.com/eUvyn2QlPppt7z5wew0upiGt2-o7c7rLKBlWynTrSdacjvtZYxZ7Sp6MuYumQJ-zSwzj6a6BDA=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['4th Generation', 'Hololive'],
+    twitter: 'himemoriluna',
+    aliases: ['ルーナ', 'luna'],
+  },
   {
     name: 'Amane Kanata',
     ytId: 'UCZlDXzGoo7d44bwdNObFacg',
@@ -308,6 +243,79 @@ export const hololive_jp = [
     twitter: 'amanekanatach',
     aliases: ['kanata', 'かなた', 'pp tenshi', 'かなごり', 'kanataso', 'kanatan', 'kanakana', 'kanata-senpai', 'kanata-san'],
   },
+  //GEN 5
+  {
+    name: 'Momosuzu Nene',
+    ytId: 'UCAWSyEs_Io8MtpY3m-zqILA',
+    chName: 'Nene Ch.桃鈴ねね',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwnilXc5WPsj69fn_xew6see04Cmj3x1vIkW62boi=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['5th Generation', 'Hololive'],
+    twitter: 'momosuzunene',
+    aliases: ['nene', 'ねね', 'nenechi'],
+  },
+  {
+    name: 'Shishiro Botan',
+    ytId: 'UCUKD-uaobj9jiqB-VXt71mA',
+    chName: 'Botan Ch.獅白ぼたん',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwngRC-JqguPnj9ljVH3UulyfdlyQzLYzLeSrhvD6=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['5th Generation', 'Hololive'],
+    twitter: 'shishirobotan',
+    aliases: ['botan', 'ぼたん', 'shishiron', 'bossan'],
+  },
+  {
+    name: 'Yukihana Lamy',
+    ytId: 'UCFKOVgVbGmX65RxO3EtH3iw',
+    chName: 'Lamy Ch. 雪花ラミィ',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwng8eQJdCX3r4RgCmRGwigXkDp9a2JJSPq-dZcMF=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['5th Generation', 'Hololive'],
+    twitter: 'yukihanalamy',
+    aliases: ['lamy', 'らみ', 'ラミィ'],
+  },
+  {
+    name: 'Omaru Polka',
+    ytId: 'UCK9V2B22uJYu3N7eR_BT9QA',
+    chName: 'Polka Ch. 尾丸ポルカ',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwnh-sak3t15svmMDNF8w_uxnNEChOL7C1DKAO-Ht=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['5th Generation', 'Hololive'],
+    twitter: 'omarupolka',
+    aliases: ['polka', 'omaru', 'ポル', 'おまる', 'omarun'],
+  },
+//GAMERS
+  {
+    name: 'Inugami Korone',
+    ytId: 'UChAnqc_AY5_I3Px5dig3X1Q',
+    chName: 'Korone Ch. 戌神ころね',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwnj7QwmJ9YhyKY-9SkOKhKIzTKDMJp0HX2vAdQUVdw=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['GAMERS', 'Hololive'],
+    twitter: 'inugamikorone',
+    aliases: ['korone', 'korosan', 'ころね', 'ころさん'],
+  },
+  {
+    name: 'Ookami Mio',
+    ytId: 'UCp-5t9SrOQwXMU7iIjQfARg',
+    chName: 'Mio Channel 大神ミオ',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwng30Wmfu39r1PLrF05pvAafn2a2Ex90ok2C6CTBmg=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['GAMERS', 'Hololive'],
+    twitter: 'ookamimio',
+    aliases: ['mio', 'みお'],
+  },
+  {
+    name: 'Nekomata Okayu',
+    ytId: 'UCvaTdHTWBGv3MKj3KVqJVCw',
+    chName: 'Okayu Ch. 猫又おかゆ',
+    picture:
+      'https://yt3.ggpht.com/ytc/AAUvwnjXQ3Gt3t3SdUMZHBhhEb_c1jqThHfDaVNJF_LJ=s800-c-k-c0x00ffffff-no-rj',
+    groups: ['GAMERS', 'Hololive'],
+    twitter: 'nekomataokayu',
+    aliases: ['okayu', 'おかゆ'],
+  },
+//GEN 6 / HOLOX
   {
     name: 'Laplus Darkness',
     ytId: 'UCENwRMx5Yh42zWpzURebzTw',
@@ -356,6 +364,7 @@ export const hololive_jp = [
     twitter: 'kazamairohach',
     aliases: ['Iroha'],
   },
+  //DevIS: ReGLOSS
   {
     name: 'Hiodoshi Ao',
     ytId: 'UCMGfV7TVTmHhEErVJg1oHBQ',
@@ -401,4 +410,47 @@ export const hololive_jp = [
     twitter: 'todoroki_hajime',
     aliases: ['Todoroki', 'Hajime'],
   },
+//DevIS: FLOW GLOW
+  {
+    name: 'Isaki Riona',
+    ytId: 'UC9LSiN9hXI55svYEBrrK-tw',
+    chName: 'Riona Ch. 響咲リオナ - FLOW GLOW',
+    picture: 'dont put anything here',
+    groups: ['FlowGLOW', 'Hololive'],
+    twitter: '',
+    aliases: ['', ''],
+  },{
+    name: 'Mizumiya Su',
+    ytId: 'UCjk2nKmHzgH5Xy-C5qYRd5A',
+    chName: 'Su Ch. 水宮枢 - FLOW GLOW',
+    picture: 'dont put anything here',
+    groups: ['FlowGLOW', 'Hololive'],
+    twitter: '',
+    aliases: ['', ''],
+  },{
+    name: 'Kikirara Vivi',
+    ytId: 'UCGzTVXqMQHa4AgJVJIVvtDQ',
+    chName: 'Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW',
+    picture: 'dont put anything here',
+    groups: ['FlowGLOW', 'Hololive'],
+    twitter: '',
+    aliases: ['', ''],
+  },{
+    name: 'Koganei Niko',
+    ytId: 'UCuI_opAVX6qbxZY-a-AxFuQ',
+    chName: 'Niko Ch. 虎金妃笑虎 - FLOW GLOW',
+    picture: 'dont put anything here',
+    groups: ['FlowGLOW', 'Hololive'],
+    twitter: '',
+    aliases: ['', ''],
+  },{
+    name: 'Rindo Chihaya',
+    ytId: 'UCKMWFR6lAstLa7Vbf5dH7ig',
+    chName: 'Chihaya Ch. 輪堂 千速 - FLOW GLOW',
+    picture: 'dont put anything here',
+    groups: ['FlowGLOW', 'Hololive'],
+    twitter: '',
+    aliases: ['', ''],
+  }
+  
 ] as const
