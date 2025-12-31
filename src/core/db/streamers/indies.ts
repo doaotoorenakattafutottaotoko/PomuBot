@@ -10,27 +10,6 @@ export const indies = [
     aliases: ['Pochi', 'Iida', 'Iida Pochi',],
   },
   {
-    name: 'Nyatasha Nyanners',
-    ytId: 'UCO5Jvsc_sKuZi3MhnJxrlzQ',
-    chName: 'Nyanners',
-    picture:
-      'https://yt3.googleusercontent.com/dAOQtlQdhw5Lweej9ilKK45pe0D3AsvVpF8iM1iSQhGceKJp9MZoGMN4KoaJFZE6tX2TB5CwDFk=s176-c-k-c0x00ffffff-no-rj',
-    groups: ['indies'],
-    twitter: 'NyanNyanners',
-    aliases: ['Nyanners', 'Nyan', 'Nyatasha']
-  },
-
-  {
-    name: 'Silvervale',
-    ytId: 'UCm8Dj7dQ0oRHXNUXF31kjEw',
-    chName: 'Silvervale',
-    picture:
-      'https://yt3.ggpht.com/hSsCpkNyXr_RZF-PgaFGqBiAYaDqlkA2h9Ug8wNsQVOnXXli469QnpihNFPo5j1mMBeNMtdXZg=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['indies'],
-    twitter: '_Silvervale_',
-    aliases: ['Silvervale',],
-  },
-  {
     name: 'LeeandLie',
     ytId: 'UC8THb_fnOptyVgpi3xuCd-A',
     chName: 'LeeandLie (AmaLee)',
@@ -193,6 +172,42 @@ export const indies = [
     groups: ['indies'],
     twitter: 'MintFantome',
     aliases: ['Mint', 'Mint Maid', 'MintMaid', 'mintfantome', 'fantomemint']
+  },
+ {
+    name: 'dooby',
+    ytId: 'UC6T7TJZbW6nO-qsc5coo8Pg',
+    chName: 'dooby',
+    picture: '',
+    groups: ['indies'],
+    twitter: '',
+    aliases: ['dooby', 'doob'],
+  },
+   {
+    name: 'Peo Ch,',
+    ytId: 'UChTI-WraqcTbKuSiG6zVQcw',
+    chName: 'Yukinoshita Peo Ch.',
+    picture: '',
+    groups: ['indies'],
+    twitter: '',
+    aliases: ['peo'],
+  },
+  {
+    name: 'Sameko Saba',
+    ytId: 'UCxsZ6NCzjU_t4YSxQLBcM5A',
+    chName: 'Sameko Saba',
+    picture: '',
+    groups: ['indies'],
+    twitter: '',
+    aliases: ['saba'],
+  },
+  {
+    name: 'Nimi Nightmare',
+    ytId: 'UCIfAvpeIWGHb0duCkMkmm2Q',
+    chName: 'Nimi Nightmare',
+    picture: '',
+    groups: ['indies'],
+    twitter: '',
+    aliases: ['nimi'],
   },
   {
     name: 'Mintara Podcast',
